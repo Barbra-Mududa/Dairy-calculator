@@ -1,4 +1,4 @@
-c# Dairy Drop
+# Dairy-calculator
 
 # Table of Contents
 
