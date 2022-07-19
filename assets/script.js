@@ -10,7 +10,10 @@ function sum(){
     totalProductionD = g + h + i + j 
 
     document.getElementById("daily").value = totalProductionD
+
+    document.getElementById("weekly").value = totalProductionD * 45 * 7
 }
+
 
 
 
