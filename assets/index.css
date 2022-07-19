@@ -75,6 +75,7 @@ button{
     margin: 20px;
     background-color: silver;
     color: black;
+    
 }
 .output> h2 {
     width: 100%;
@@ -84,4 +85,5 @@ button{
 .track{
     width: 60%;
     padding: 60px;
+  
 }
