@@ -35,4 +35,4 @@ cd Dairy-calculator
 3. Run index.html
 
 ## Deployment link
-[link](https://github.com/Barbra-Mududa/Dairy-calculator/tree/gh-pages)
+[link](https://barbra-mududa.github.io/Dairy-calculator/)
