@@ -2,10 +2,10 @@ var totalProductionD = g + h + i + j
 var sellingPrice = 45 
 
 function sum(){
-    shedA = Number(document.compute.g.value);
-    shedB = Number(document.compute.h.value);
-    shedC = Number(document.compute.i.value);
-    shedD = Number(document.compute.j.value);
+    g = Number(document.compute.g.value);
+    h = Number(document.compute.h.value);
+    i = Number(document.compute.i.value);
+    j = Number(document.compute.j.value);
 
     totalProductionD = g + h + i + j 
 
