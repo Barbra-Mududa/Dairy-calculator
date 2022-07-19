@@ -4,9 +4,11 @@
     width: 100%;
 }
 .container {
-    background-color:blue;
+    /* background-color:blue; */
     color: white;
     height: 100%;
+    background-image: url(https://images.pexels.com/photos/254178/pexels-photo-254178.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: contain;
 }
 .container > #produce {
     text-align: center;
