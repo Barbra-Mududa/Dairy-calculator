@@ -32,7 +32,10 @@
 #shed {
     width: 70%;
     padding: 60px;
-
+    /* height: 30px; */
     /* margin-top: 50px; */
+}
+#shed > input {
+    padding: 60px;
 }
 
