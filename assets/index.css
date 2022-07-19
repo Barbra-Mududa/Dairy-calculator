@@ -4,7 +4,7 @@
     width: 100%;
 }
 .container {
-    background-color: black;
+    background-color:blue;
     color: white;
     height: 100%;
 }
@@ -37,6 +37,9 @@
 }
 #shed > input {
     padding: 60px;
+}
+button{
+    width:30%;
 }
 .output {
     align-items: center;
